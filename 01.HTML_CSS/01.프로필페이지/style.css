@@ -1,0 +1,24 @@
+body {text-align: center;}
+h1 {color: green;}
+p {font-size: 30px;}
+ul {
+    list-style: none;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+}
+ul > li {padding: 0 5px;}
+.link{
+    text-decoration: none;
+    color: darkviolet;
+}
+table { margin: 0 auto; }
+td {
+    padding : 5px;
+    background-color: darkgreen;
+    color: blanchedalmond;
+    border-radius: 5px;
+}
+img {
+    border-radius: 50%;
+}
